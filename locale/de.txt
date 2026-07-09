@@ -1,0 +1,208 @@
+#: locale=de
+
+## Aktion
+
+### URL
+LinkBehaviour_53D3A76C_4186_F801_418B_B64CD987AA46.source = https://2-g.com/de
+LinkBehaviour_654C6691_4189_1CCE_41BE_3D2F3445D3C9.source = https://2-g.com/de/service/training-center/besucherinformationen
+PopupWebFrameBehaviour_6652E230_419B_37F7_41C4_2F1285B79F54.url = https://2g-trainingcenter.github.io/TrainingCenter/index.html
+PopupWebFrameBehaviour_6FC56AEE_418F_14B3_41BA_A95E5B26AEA7.url = https://2g-trainingcenter.github.io/TrainingCenter/index.html
+
+## E-Learning
+
+### Antwort
+questionOption_5DD63AFA_429F_28A5_41B0_48A718D823FB.text = Ja ich kenne die Trainingsräume - Yes, I'm familiar with the training rooms.
+
+### Frage
+question_5D245550_4299_19E4_41C8_D9C70F51EAF3.title = Hast du dich mit den Trainingsräumen im 2G TrainingCenter vertraut gemacht? \
+ \
+Du kannst diese Frage auch erstmal über das "X" schließen. \
+--------------------------------------------- \
+Have you familiarized yourself with the training rooms at the 2G TrainingCenter? \
+ \
+You can also close this question for now by clicking the “X.
+
+### Frage Screen
+quizQuestion_637D4613_429B_1B64_41BA_A0F0EF37DF48.ok = OK
+
+### Report Screen
+quizScore_637F6614_429B_1B6C_41C2_B15A515D3BE1.title = - SCORE -
+quizScore_637F6614_429B_1B6C_41C2_B15A515D3BE1.completion = Completed
+quizScore_637F6614_429B_1B6C_41C2_B15A515D3BE1.questionsCorrect = Correct
+quizScore_637F6614_429B_1B6C_41C2_B15A515D3BE1.downloadCSV = Download .csv
+quizScore_637F6614_429B_1B6C_41C2_B15A515D3BE1.questionsIncorrect = Incorrect
+quizScore_637F6614_429B_1B6C_41C2_B15A515D3BE1.items = Items Found
+quizScore_637F6614_429B_1B6C_41C2_B15A515D3BE1.questions = Questions
+quizScore_637F6614_429B_1B6C_41C2_B15A515D3BE1.repeat = Repeat
+quizScore_637F6614_429B_1B6C_41C2_B15A515D3BE1.submitToLMS = Submit
+quizScore_637F6614_429B_1B6C_41C2_B15A515D3BE1.elapsedTime = Time
+
+### Score Name
+score1.label = Abgeschlossen
+
+### Timeout Screen
+quizTimeout_637D4613_429B_1B64_41C8_6B5A5AB43E53.title = - TIMEOUT -
+quizTimeout_637D4613_429B_1B64_41C8_6B5A5AB43E53.repeat = Repeat
+quizTimeout_637D4613_429B_1B64_41C8_6B5A5AB43E53.score = View Score
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_4F8C9B53_40F0_0190_41C3_960B7808ABF0.text = 2G TrainingCenter \
+Eingang | Entrance
+HotspotPanoramaOverlayTextImage_53780F69_4110_01BE_41B0_0D68D8424347.text = 2G TrainingCenter \
+verlassen \
+------------------------------------- \
+leave 2G TrainingCenter
+HotspotPanoramaOverlayTextImage_53A644E8_4110_00BF_41C6_45A9E5118398.text = Beachten \
+⚠️ \
+Note
+HotspotPanoramaOverlayTextImage_6FA9DF0B_4187_ED86_41C6_3EB01D014B28.text = Eingang \
+--------- \
+Entrance
+HotspotPanoramaOverlayTextImage_6FB70D08_4189_2D72_41BB_E42D2F91E1D3.text = Ich möchte mehr vom TrainingCenter sehen! \
+------------------------------------ \
+I'd like to see more of the TrainingCenter!
+HotspotPanoramaOverlayTextImage_6FF9DAEF_418F_14B1_41C2_065210724264.text = Ich möchte mehr vom TrainingCenter sehen! \
+------------------------------------- \
+I'd like to see more of the TrainingCenter!
+HotspotPanoramaOverlayTextImage_63888973_4279_35B0_41D1_3BAD0CBC046B.text = Pausenbereich \
+------------------ \
+Break Area
+HotspotPanoramaOverlayTextImage_53C152E1_4130_00AC_419E_741A3A86D35F.text = Raum verlassen \
+------------------ \
+leave the room
+HotspotPanoramaOverlayTextImage_521BDFC6_4130_00F4_416F_C3B4FD7FF33D.text = Raum verlassen \
+------------------ \
+leave the room
+HotspotPanoramaOverlayTextImage_58C2AD5E_4110_0194_41A3_D0649D1593B8.text = Raum verlassen \
+--------------------- \
+leave room
+HotspotPanoramaOverlayTextImage_60C93788_418A_FD57_41C5_9BA8CA48E0D7.text = Toiletten \
+----------- \
+Restrooms
+HotspotPanoramaOverlayTextImage_6CCBB5DA_4189_7C9D_41A7_E4EE59F1C4BE.text = Toiletten \
+------------------ \
+Restrooms
+HotspotPanoramaOverlayTextImage_5356C939_419F_6809_41B4_7AB580B89030.text = Training 1
+HotspotPanoramaOverlayTextImage_5302E052_4110_7FED_41C6_69507AC9F174.text = Training 1 verlassen \
+-------------------------- \
+leave Training 1
+HotspotPanoramaOverlayTextImage_52188E05_4130_0377_41A8_081453A65EC5.text = Training 2
+HotspotPanoramaOverlayTextImage_50001B1D_40F0_0190_41B4_0332F0E90542.text = Training 2  \
+Training 3
+HotspotPanoramaOverlayTextImage_6CF058BF_41FB_34FB_41D0_A7D661E53429.text = Training 2  \
+Training 3
+HotspotPanoramaOverlayTextImage_53DD4054_4110_7F95_41C3_973589A4022C.text = Training 3
+HotspotPanoramaOverlayTextImage_60231371_428B_15C5_419D_0449BA85EC0C.text = WC
+HotspotPanoramaOverlayTextImage_6D1D8894_4189_749B_41CB_D3C9B7347096.text = WC Praxisbereich \
+------------------------- \
+Restroom Practice Area
+HotspotPanoramaOverlayTextImage_52E548F9_4189_E824_41CC_3D51D59FB8D1.text = zum Eingang \
+------------------ \
+to the Entrance
+HotspotPanoramaOverlayTextImage_52AE221F_4130_0394_41A5_69EDA10FED47.text = zum Eingang \
+------------------ \
+to the entrance
+HotspotPanoramaOverlayTextImage_6976C4D9_41B9_1C9D_41BF_AD4CAB6BD4F2.text = zur Übersicht \
+------------------ \
+Back to Overview
+
+## Media
+
+### Audio
+audiores_5667D70F_4110_0175_41C3_CE50A8F65562.mp3Url = media/audio_529D8490_4110_076C_418B_983692CA0461_de.mp3
+
+### Audio Subtitles
+
+### Floorplan
+
+### Image
+imlevel_6C6181E9_4299_14CB_41BA_8A50B5D507BD.url = media/map_5CD74FCE_4189_2886_41C2_87D8A7CA8C1D_de_0.webp
+imlevel_6C6191E9_4299_14CB_412B_DED9D7744464.url = media/map_5CD74FCE_4189_2886_41C2_87D8A7CA8C1D_de_1.webp
+imlevel_6C61B1E9_4299_14CB_41A4_BFBCA0885FD6.url = media/map_5CD74FCE_4189_2886_41C2_87D8A7CA8C1D_de_2.webp
+imlevel_6C61C1EA_4299_14C9_41CF_D3688C3091F4.url = media/map_5CD74FCE_4189_2886_41C2_87D8A7CA8C1D_de_3.webp
+imlevel_6C61E1EA_4299_14C9_417B_D8B27C0EF0C8.url = media/map_5CD74FCE_4189_2886_41C2_87D8A7CA8C1D_de_4.webp
+imlevel_5D7EC5EA_4289_F8A4_41AF_8D845B7A5C2F.url = media/panorama_4C416A36_40F0_0390_4164_1D5D41F554BC_HS_q1f929sf_de.webp
+imlevel_619516A7_428F_3F43_41A2_9E97CAFAF174.url = media/panorama_4CAA45F5_40F0_0093_41AD_FE782F5F69D1_HS_0wdzyydw_de.webp
+imlevel_5D51DC55_4289_2FEE_41C4_B5B112CDFAB5.url = media/panorama_4CAA45F5_40F0_0093_41AD_FE782F5F69D1_HS_6zkw1wx5_de.webp
+imlevel_61EA6771_428F_3DDF_41A0_71C4008B787B.url = media/panorama_4CAA45F5_40F0_0093_41AD_FE782F5F69D1_HS_oh7s1yrg_de.webp
+imlevel_61EFB813_428F_3343_41BF_ECDE47C07BB0.url = media/panorama_4CAA45F5_40F0_0093_41AD_FE782F5F69D1_HS_unqicqg5_de.webp
+imlevel_61E338C0_428F_333E_41BF_150CCC7FF080.url = media/panorama_4CAA45F5_40F0_0093_41AD_FE782F5F69D1_HS_z40tqu3d_de.webp
+imlevel_608B37FC_4287_3CC2_41D0_D7E842381720.url = media/panorama_4CAA45F5_40F0_0093_41AD_FE782F5F69D1_HS_zcoaxqe5_de.webp
+imlevel_5FE820F4_4289_38AE_41CE_ECE0991F5B89.url = media/panorama_4CAD8AFC_40F0_0090_41B9_F0BD61451CAA_HS_bl12rctn_de.webp
+imlevel_6C6E8955_419B_15E6_41C7_6296694945D7.url = media/panorama_4CAD8AFC_40F0_0090_41B9_F0BD61451CAA_HS_j5ccd94c_de.webp
+imlevel_5FE5224E_4289_3BFC_41C5_43351EA29A32.url = media/panorama_4CAD8AFC_40F0_0090_41B9_F0BD61451CAA_HS_r02rokn5_de.webp
+imlevel_5FEBC18D_4289_397F_41B5_1DF5DD7C97D7.url = media/panorama_4CAD8AFC_40F0_0090_41B9_F0BD61451CAA_HS_wc3fr0tn_de.webp
+imlevel_636BC631_4289_3F47_41CC_2CB416E3877D.url = media/panorama_4CAD8AFC_40F0_0090_41B9_F0BD61451CAA_HS_yunu26j5_de.webp
+imlevel_5FDD83F2_4289_38A5_41CC_B04EC4F3A611.url = media/panorama_4CAEF782_40F0_0171_41C2_E46F8DD04CE1_HS_lg8oshp2_de.webp
+imlevel_5FE2A375_4289_39AF_41A9_2014B809E09E.url = media/panorama_4EC13680_40F0_0371_41B2_55E552624A45_HS_l3jm4moz_de.webp
+imlevel_5FDF446D_4289_3FBF_41A3_2B4DCD5AC037.url = media/panorama_521881C7_4110_00F2_41B9_85FE6CF8C545_HS_nvyphu3y_de.webp
+imlevel_5FD5A60B_4289_3B7B_41CF_889CF6BCFA38.url = media/panorama_521881C7_4110_00F2_41B9_85FE6CF8C545_HS_zbvy9qoh_de.webp
+imlevel_5FFAA013_4289_376B_4190_9B43C00E31CF.url = media/panorama_529AD9E2_418B_282A_41B9_F0A470DE9C76_HS_6bpl2wyl_de.webp
+imlevel_61E17958_428F_35CD_41C8_9C7B9270D7F2.url = media/panorama_6C020985_41FE_F48F_41CD_91CD39B69A54_HS_dr3yjmbk_de.webp
+imlevel_61E4BA7D_428F_37C7_41D1_51432F4C2009.url = media/panorama_6C020985_41FE_F48F_41CD_91CD39B69A54_HS_oxnzmnl7_de.webp
+imlevel_63B672D7_427B_74F0_41BF_B7F0081F506E.url = media/panorama_6C020985_41FE_F48F_41CD_91CD39B69A54_HS_yl0uoj0o_de.webp
+imlevel_6B1EA3DA_4289_14C5_41B4_BC2A745F4151.url = media/panorama_6CBE8224_418E_F7B7_41A1_31B25967D8EE_HS_8pyzjsq3_de.webp
+imlevel_6C5CD1CB_419B_34E2_41BB_5F088FB522B0.url = media/panorama_6CBE8224_418E_F7B7_41A1_31B25967D8EE_HS_lq69ujv0_de.webp
+imlevel_66311644_419B_1FE6_41C9_A6CEB778787E.url = media/panorama_6CBE8224_418E_F7B7_41A1_31B25967D8EE_HS_vrtdlvse_de.webp
+imlevel_5D5F29F8_4289_28A5_41C1_82D7626C9CC2.url = media/popup_51FC4E7D_40F0_0391_4190_A6B81E058E72_de_0_0.webp
+imlevel_5D5F59F8_4289_28A5_41C3_0D0745425D33.url = media/popup_51FC4E7D_40F0_0391_4190_A6B81E058E72_de_0_1.webp
+imlevel_5D5F69F9_4289_28A7_41CA_7CF03FCBB659.url = media/popup_51FC4E7D_40F0_0391_4190_A6B81E058E72_de_0_2.webp
+imlevel_5D5889F9_4289_28A7_419F_4B5282799F0F.url = media/popup_51FC4E7D_40F0_0391_4190_A6B81E058E72_de_0_3.webp
+imlevel_5D58B9F9_4289_28A7_41C1_2E652FB8CC78.url = media/popup_51FC4E7D_40F0_0391_4190_A6B81E058E72_de_0_4.webp
+imlevel_610DC5EF_4189_1CA8_41C0_049DB531B0ED.url = media/popup_611B85D2_4187_1CF9_41CB_AB93F474FFFC_de_0_0.webp
+imlevel_610DD5EF_4189_1CA8_41CC_F7383DBFF4B9.url = media/popup_611B85D2_4187_1CF9_41CB_AB93F474FFFC_de_0_1.webp
+imlevel_610E25EF_4189_1CA8_41A8_5AC873ABD0A0.url = media/popup_611B85D2_4187_1CF9_41CB_AB93F474FFFC_de_0_2.webp
+imlevel_610E35EF_4189_1CA8_41CE_1F243442281A.url = media/popup_611B85D2_4187_1CF9_41CB_AB93F474FFFC_de_0_3.webp
+imlevel_610E05F0_4189_1CB8_417C_13D830C93B8C.url = media/popup_611B85D2_4187_1CF9_41CB_AB93F474FFFC_de_0_4.webp
+imlevel_60B0F5E7_4287_7CCE_41C7_CA9ABC56E6AF.url = media/popup_6D1FA354_4287_15C3_419A_61FCF6E43CE0_de_0_0.webp
+imlevel_60B0E5E8_4287_7CC2_41CA_C0C5AD0AFCF8.url = media/popup_6D1FA354_4287_15C3_419A_61FCF6E43CE0_de_0_1.webp
+imlevel_60B0D5E8_4287_7CC2_41CC_7325491DFA06.url = media/popup_6D1FA354_4287_15C3_419A_61FCF6E43CE0_de_0_2.webp
+imlevel_60B0C5E8_4287_7CC2_41C4_AA83050DE920.url = media/popup_6D1FA354_4287_15C3_419A_61FCF6E43CE0_de_0_3.webp
+imlevel_60B025E9_4287_7CC2_41CA_76005AABCC54.url = media/popup_6D1FA354_4287_15C3_419A_61FCF6E43CE0_de_0_4.webp
+imlevel_63CFA5A6_427B_1D50_41C7_E4840C0383B5.url = media/popup_6EC57DB9_427B_2CB0_418D_000A7ADFFF99_de_0_0.webp
+imlevel_63CF45A6_427B_1D50_41C2_9F4FBDDBA38F.url = media/popup_6EC57DB9_427B_2CB0_418D_000A7ADFFF99_de_0_1.webp
+imlevel_63CF55A7_427B_1D50_41B9_07315B755B51.url = media/popup_6EC57DB9_427B_2CB0_418D_000A7ADFFF99_de_0_2.webp
+imlevel_63CF65A7_427B_1D50_41CB_EFFCC07A3FE1.url = media/popup_6EC57DB9_427B_2CB0_418D_000A7ADFFF99_de_0_3.webp
+imlevel_63CD95A8_427B_1D50_4198_56F8A4FE4C90.url = media/popup_6EC57DB9_427B_2CB0_418D_000A7ADFFF99_de_0_4.webp
+imlevel_6C549284_4299_1738_4187_8A0A2268B986.url = media/zoomImage_5A75367D_41B9_1B83_41BB_7FFA7925D1A3_de_0_0.png
+imlevel_6C54A284_4299_1738_41BC_64588648312F.url = media/zoomImage_5A75367D_41B9_1B83_41BB_7FFA7925D1A3_de_0_1.png
+imlevel_6C54C285_4299_173B_41B7_5E5CE9DCD800.url = media/zoomImage_5A75367D_41B9_1B83_41BB_7FFA7925D1A3_de_0_2.png
+imlevel_6C54D285_4299_173B_41C1_799D12BB03EB.url = media/zoomImage_5A75367D_41B9_1B83_41BB_7FFA7925D1A3_de_0_3.png
+
+### Popup Image
+
+### Titel
+panorama_4EC13680_40F0_0371_41B2_55E552624A45.label = 24_Training 2
+panorama_4CAEF782_40F0_0171_41C2_E46F8DD04CE1.label = 25_Training 3
+video_6672A8E5_419F_144E_41D1_5CC39954B87E.label = DJI_20260708_142859_1_null_video
+panorama_6CBE8224_418E_F7B7_41A1_31B25967D8EE.label = Flur Büros
+album_6460811A_469F_3401_41AB_42934B132792.label = Fotoalbum TC
+panorama_4CAA45F5_40F0_0093_41AD_FE782F5F69D1.label = Foyer Eingang
+panorama_6C020985_41FE_F48F_41CD_91CD39B69A54.label = Foyer Pausenbereich
+panorama_529AD9E2_418B_282A_41B9_F0A470DE9C76.label = Foyer oben
+map_5CD74FCE_4189_2886_41C2_87D8A7CA8C1D.label = Grundriss
+panorama_4CAD8AFC_40F0_0090_41B9_F0BD61451CAA.label = Praxisbereich Mitte
+panorama_4F2E23D9_418B_1829_4193_90EE4A9647AD.label = Start
+album_6460811A_469F_3401_41AB_42934B132792_0.label = TC
+panorama_4C416A36_40F0_0390_4164_1D5D41F554BC.label = TC draußen nah
+panorama_521881C7_4110_00F2_41B9_85FE6CF8C545.label = Training 1
+
+### Video
+videolevel_6488BAAF_419F_34DA_41C7_4E129034E845.url = media/video_6672A8E5_419F_144E_41D1_5CC39954B87E_de.mp4
+videolevel_6488BAAF_419F_34DA_41C7_4E129034E845.posterURL = media/video_6672A8E5_419F_144E_41D1_5CC39954B87E_poster_de.jpg
+
+### Video Untertitel
+
+## Skin
+
+### Image
+Image_56371ABD_4110_0095_41B4_75630416F3DF.url = skin/Image_56371ABD_4110_0095_41B4_75630416F3DF_de.png
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Training 1-3
